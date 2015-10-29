@@ -10,5 +10,6 @@
 	new dev
 	newwer
 	newweerd
+	latest
 	</body>
 </html>
